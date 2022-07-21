@@ -21,4 +21,8 @@ The dependencies for the code are
 ----Sidenote-----
 The code only works for windows environments, updates for mac and linux in progress.
 
+----READ MORE----
+
+https://link.springer.com/chapter/10.1007/978-981-16-0425-6_9
+
 Enjoy
